@@ -12,7 +12,7 @@
 
 ### 🧰 Tech & Tools I Use  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,express.js,tailwind,figma,php,laravel,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,express,tailwind,figma,php,laravel,mysql,git,github,vscode" />
 </p>
 
 ---
