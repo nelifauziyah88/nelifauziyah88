@@ -15,7 +15,7 @@
 name     : Neli Fauziyah
 campus   : Politeknik Negeri Batam — D3 Informatika
 gpa      : 3.91 / 4.00
-focus    : Frontend Development & UI/UX Design
+focus    : Fullstack Developer & UI/UX Design
 motto    : "Keep creating, keep designing, and keep learning."
 ```
 
