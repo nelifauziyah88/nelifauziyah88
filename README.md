@@ -83,8 +83,6 @@ I love crafting clean, interactive websites that blend **creativity**, **functio
 
 <div align="center">
 
-![Neli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nelifauziyah88&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=22c55e&text_color=86efac)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelifauziyah88&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=86efac)
 
 </div>
