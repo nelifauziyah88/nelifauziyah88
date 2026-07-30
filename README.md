@@ -79,16 +79,6 @@ I love crafting clean, interactive websites that blend **creativity**, **functio
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelifauziyah88&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=86efac)
-
-</div>
-
----
-
 ## Connect With Me
 
 <div align="center">
