@@ -1,0 +1,25 @@
+<svg width="320" height="60" viewBox="0 0 320 60"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <text
+    x="50%"
+    y="50%"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="28"
+    font-weight="700">
+
+    <tspan fill="#22C55E">A</tspan>
+    <tspan fill="#EF4444">B</tspan>
+    <tspan fill="#3B82F6">O</tspan>
+    <tspan fill="#F97316">U</tspan>
+    <tspan fill="#92400E">T</tspan>
+
+    <tspan> </tspan>
+
+    <tspan fill="#22C55E">M</tspan>
+    <tspan fill="#EF4444">E</tspan>
+
+  </text>
+</svg>

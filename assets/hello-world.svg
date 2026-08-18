@@ -1,0 +1,47 @@
+<svg width="1000" height="120" viewBox="0 0 1000 120"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <g
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="42"
+    font-weight="700"
+    text-anchor="middle">
+
+    <!-- HELLO, -->
+    <text x="230" y="72">
+      <tspan fill="#22C55E">H</tspan>
+      <tspan fill="#EF4444">E</tspan>
+      <tspan fill="#3B82F6">L</tspan>
+      <tspan fill="#F97316">L</tspan>
+      <tspan fill="#92400E">O</tspan>
+      <tspan fill="#22C55E">,</tspan>
+    </text>
+
+    <!-- WORLD! -->
+    <text x="460" y="72">
+      <tspan fill="#EF4444">W</tspan>
+      <tspan fill="#3B82F6">O</tspan>
+      <tspan fill="#F97316">R</tspan>
+      <tspan fill="#92400E">L</tspan>
+      <tspan fill="#22C55E">D</tspan>
+      <tspan fill="#EF4444">!</tspan>
+    </text>
+
+    <!-- I'M -->
+    <text x="660" y="72">
+      <tspan fill="#3B82F6">I</tspan>
+      <tspan fill="#F97316">'</tspan>
+      <tspan fill="#92400E">M</tspan>
+    </text>
+
+    <!-- NELI. -->
+    <text x="820" y="72">
+      <tspan fill="#22C55E">N</tspan>
+      <tspan fill="#EF4444">E</tspan>
+      <tspan fill="#3B82F6">L</tspan>
+      <tspan fill="#F97316">I</tspan>
+      <tspan fill="#92400E">.</tspan>
+    </text>
+
+  </g>
+</svg>

@@ -1,98 +1,171 @@
 <div align="center">
 
-<h1>Neli Fauziyah</h1>
-<h3>Web Developer & UI/UX Enthusiast</h3>
+<p align="center">
+  <img src="./assets/hello-world.svg" width="900">
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=22c55e&center=true&vCenter=true&width=500&lines=Creating+Digital+Experiences;Web+Developer+%26+UI%2FUX+Enthusiast;Informatics+Student+%40+Polibatam" alt="Typing SVG" />
+</div>
+
+![Neli Fauziyah](assets/Neli%20Fauziyah.png)
+
+<div align="center">
+
+<img src="./assets/tagline.svg" width="700">
+
+I love exploring design and frontend development to create interactive websites that combine **creativity**, **functionality**, and meaningful **user experiences**.
+
+<br>
+
+<a href="https://nelifauziyah.my.id">
+  <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+<a href="https://github.com/nelifauziyah88">
+  <img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-## About Me
+### ABOUT ME
 
-```yaml
-name     : Neli Fauziyah
-campus   : Politeknik Negeri Batam — D3 Informatika
-gpa      : 3.91 / 4.00
-focus    : Fullstack Developer & UI/UX Design
-motto    : "Keep creating, keep designing, and keep learning."
-```
+<table>
+<tr>
+<td width="180" valign="top">
+<img src="./assets/AboutMe.png" width="175" alt="Neli Fauziyah">
+</td>
+<td valign="top">
 
-I love crafting clean, interactive websites that blend **creativity**, **functionality**, and great **user experience**. Currently bridging the gap between aesthetics and code.
+<b>Passionate about clean, purposeful design</b>
+
+I enjoy exploring design and web development to create clean, responsive, and user-friendly digital experiences.
+
+As an Informatics student at <b>Politeknik Negeri Batam</b>, I combine creativity and functionality to build meaningful digital products.
+
+</td>
+</tr>
+</table>
+
+<table align="center" width="700">
+<tr>
+<td align="center" width="233">
+<b>3.91</b><br>
+<sub>GPA</sub>
+</td>
+<td align="center" width="233">
+<b>6+</b><br>
+<sub>Technologies</sub>
+</td>
+<td align="center" width="233">
+<b>2</b><br>
+<sub>Organizations</sub>
+</td>
+</tr>
+</table>
 
 ---
 
-## Tech Stack
+### TECH STACK
+
+Technologies and tools I use for building digital experiences.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,php,laravel,express,mysql,figma,github" height="45" />
+</p>
+
+---
+
+### SKILLS
+
+<H5>What I bring to the table.</H5>
+
+#### Hard Skills
+
+<table width="700">
+<tr>
+<td width="350">
+<sub><b>Responsive Web Design</b></sub><br>
+<sub>█████████░ &nbsp; 88%</sub>
+</td>
+
+<td width="350">
+<sub><b>Frontend Development</b></sub><br>
+<sub>████████░░ &nbsp; 85%</sub>
+</td>
+</tr>
+
+<tr>
+<td>
+<sub><b>UI/UX Design</b></sub><br>
+<sub>████████░░ &nbsp; 80%</sub>
+</td>
+
+<td>
+<sub><b>Version Control</b></sub><br>
+<sub>████████░░ &nbsp; 75%</sub>
+</td>
+</tr>
+
+<tr>
+<td>
+<sub><b>Database Management</b></sub><br>
+<sub>███████░░░ &nbsp; 72%</sub>
+</td>
+
+<td>
+<sub><b>Backend Development</b></sub><br>
+<sub>███████░░░ &nbsp; 70%</sub>
+</td>
+</tr>
+</table>
+
+#### Soft Skills 
+<p align="center"> <img src="https://img.shields.io/badge/Communication-2563EB?style=for-the-badge"> <img src="https://img.shields.io/badge/Teamwork-1D4ED8?style=for-the-badge"> <img src="https://img.shields.io/badge/Problem%20Solving-0369A1?style=for-the-badge"> <img src="https://img.shields.io/badge/Creativity-0284C7?style=for-the-badge"> <img src="https://img.shields.io/badge/Time%20Management-0EA5E9?style=for-the-badge"> <br> <img src="https://img.shields.io/badge/Adaptability-2563EB?style=for-the-badge"> <img src="https://img.shields.io/badge/Responsibility-1D4ED8?style=for-the-badge"> <img src="https://img.shields.io/badge/Attention%20to%20Detail-0369A1?style=for-the-badge"> <img src="https://img.shields.io/badge/Leadership-0284C7?style=for-the-badge"> <img src="https://img.shields.io/badge/Collaboration-0EA5E9?style=for-the-badge"> 
+</p>
+
+---
+
+## LET'S BUILD SOMETHING MEANINGFUL
 
 <div align="center">
 
-**Frontend**
+I'm open to collaboration, new opportunities, and creative projects related to **web development, frontend design, backend, and UI/UX**.
 
-![HTML](https://img.shields.io/badge/HTML-22c55e?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-16a34a?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-15803d?style=for-the-badge&logo=javascript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-166534?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-14532d?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<br>
 
-**Backend & Database**
+<a href="mailto:nelifauziyahh@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-2563EB?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-![PHP](https://img.shields.io/badge/PHP-22c55e?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-16a34a?style=for-the-badge&logo=laravel&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-15803d?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-14532d?style=for-the-badge&logo=mysql&logoColor=white)
+<a href="https://www.linkedin.com/in/neli-fauziyah-0b1a50383">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-**Design & Tools**
+<a href="https://wa.me/6282172435087">
+<img src="https://img.shields.io/badge/WHATSAPP-075E54?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
 
-![Figma](https://img.shields.io/badge/Figma-22c55e?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-16a34a?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-15803d?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-14532d?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<a href="https://instagram.com/zieraxst_">
+<img src="https://img.shields.io/badge/INSTAGRAM-4338CA?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://github.com/nelifauziyah88">
+<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+### nelifauziyah.my.id
+
+**Web Developer & UI/UX Enthusiast**
 
 </div>
 
----
-
-## Skills
-
-| Hard Skills | Level |
-|---|---|
-| Responsive Web Design | `████████░░` 88% |
-| Frontend Development | `████████░░` 85% |
-| UI/UX Design | `████████░░` 80% |
-| Database Management | `███████░░░` 72% |
-| Backend Development | `███████░░░` 70% |
-
----
-
-## Highlights
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:38BDF8"/>
 
 <div align="center">
 
-| GPA | Technologies | Organizations |
-|:---:|:---:|:---:|
-| **3.91** | **6+** | **2** |
+© 2026 Neli Fauziyah
+Designed & built with passion.
 
-</div>
-
-> Active in **BEM Politeknik Negeri Batam** (Partnership Relations) & **HMTI Fair** (Event Division Committee)
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-22c55e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neli-fauziyah-0b1a50383)
-[![Instagram](https://img.shields.io/badge/Instagram-16a34a?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zieraxst_)
-[![GitHub](https://img.shields.io/badge/GitHub-15803d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nelifauziyah88)
-[![Portfolio](https://img.shields.io/badge/Portfolio-14532d?style=for-the-badge&logo=safari&logoColor=white)](https://nelifauziyah.my.id)
-[![Email](https://img.shields.io/badge/Email-4ade80?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelifauziyahh@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-<sub>Keep creating, keep designing, and keep learning.</sub>
 </div>
